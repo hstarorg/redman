@@ -1,0 +1,2 @@
+# redman
+Redis web manager.
